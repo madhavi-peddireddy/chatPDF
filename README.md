@@ -25,6 +25,7 @@ To use the application, run the `app.py` file with the streamlit CLI (after havi
 streamlit run app.py
 ```
 
-##Reference
 
-![alt text](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai)
+
+[Reference](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai)
+ 
