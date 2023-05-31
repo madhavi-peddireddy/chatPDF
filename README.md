@@ -1,4 +1,4 @@
-#chatPDF-Langchain
+# ChatPDF-Langchain
 
 
 This application allows you to upload a PDF and ask questions about it using natural language. The application uses a LLM to generate a response about your PDF. The LLM will not answer questions unrelated to the document.
