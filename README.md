@@ -15,3 +15,16 @@ To install the repository, please clone this repository and install the requirem
 ```
 pip install -r requirements.txt
 ```
+You will also need to add your OpenAI API key to the `.env` file.
+
+## Usage
+
+To use the application, run the `app.py` file with the streamlit CLI (after having installed streamlit): 
+
+```
+streamlit run app.py
+```
+
+##Reference
+
+![alt text](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai)
